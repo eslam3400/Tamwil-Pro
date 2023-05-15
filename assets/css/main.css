@@ -298,7 +298,7 @@ section {
     align-items: center;
     justify-content: space-between;
     padding: 15px 0 15px 30px;
-    font-family: var(--font-default);
+    font-family: var(--font-arabic);
     font-size: 15px;
     font-weight: 500;
     color: rgba(255, 255, 255, 0.6);
@@ -1386,7 +1386,7 @@ section {
   align-items: center;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;
-  margin-right: 15px;
+  margin-left: 15px;
 }
 
 .contact .info-item h4 {
