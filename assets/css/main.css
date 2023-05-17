@@ -60,6 +60,11 @@ h6 {
   font-family: var(--font-arabic) !important;
 }
 
+.form-group {
+  margin-top: 15px;
+  font-family: var(--font-arabic);
+}
+
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
